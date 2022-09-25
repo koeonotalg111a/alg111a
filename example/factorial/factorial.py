@@ -1,7 +1,7 @@
 import math
 
 
-import math
+
 
 def factorial(n):
   r = 1
